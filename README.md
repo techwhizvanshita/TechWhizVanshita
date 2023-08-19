@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/vanshita_47" target="blank"><img src="https://img.shields.io/twitter/follow/vanshita_47?logo=twitter&style=for-the-badge" alt="vanshita_47" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack, Javascript, React js and C++**
+- 🌱 I’m currently learning ** React js and Python**
 
-- 💬 Ask me about **Web Development, C and C++**
+- 💬 Ask me about **Web Development, C and Python**
 
 - 📫 How to reach me **vanshita479@gmail.com**
 
