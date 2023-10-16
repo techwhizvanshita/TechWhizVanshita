@@ -58,6 +58,6 @@ Here are some ideas to get you started:
 [![An image of @vanshita80048's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshita80048)](https://holopin.io/@vanshita80048)
 
   Watch my contribution graph being eaten by a Snake! 🐍
-![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
+
 
  ![Vanshita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanshita-80048)
