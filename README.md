@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshita-80048&show_icons=true&locale=en" alt="vanshita-80048" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshita-80048&" alt="vanshita-80048" /></p></div>
-![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=vanshita-80048)
+
+
+<p align="left "> <p align="center"> <img width="660" src="https://github-profile-trophy.vercel.app/?username=vanshita-80048&theme=onedark&row=1&column=8"> </p> </a></p>
 
 
   Watch my contribution graph being eaten by a Snake! 🐍
