@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <p align="left ">  <img width="660" src="https://github-profile-trophy.vercel.app/?username=vanshita-80048&theme=onedark&row=2&column=8"> </p> </a>
 
 
-
+[![An image of @vanshita80048's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshita80048)](https://holopin.io/@vanshita80048)
 
   Watch my contribution graph being eaten by a Snake! 🐍
 
