@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 
 ![Dino](https://raw.githubusercontent.com/vanshita-80048/vanshita-80048/master/dino.gif)
 
-| ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=praveenscience&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshita-80048) |
+| ![Vanshita GitHub Statistics](https://github-readme-stats.vercel.app/api?username=vanshita-8004&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshita-80048) |
 | --- | --- |
-| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanshita-80048) | If you like what I do, support me by buying me a [pizza](https://www.buymeacoffee.com/praveenscience) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/praveenscience" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Pizza" width="120" /></a> |
+| ![Vanshita GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanshita-80048) | If you like what I do, support me by buying me a [cappucino](https://www.buymeacoffee.com/cupofcode) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/cupofcode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Pizza" width="120" /></a> |
 
 
 <p align="left "> <p align="center"> <img width="660" src="https://github-profile-trophy.vercel.app/?username=vanshita-80048&theme=onedark&row=1&column=8"> </p> </a></p>
