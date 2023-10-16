@@ -50,5 +50,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshita-80048&show_icons=true&locale=en" alt="vanshita-80048" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshita-80048&" alt="vanshita-80048" /></p></div>
+Watch my contribution graph being eaten by a Snake! 🐍
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
