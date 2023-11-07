@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 
 
-- 💬 Ask me about **Web Development, C and Python**
-
 - 📫 How to reach me **vanshita479@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
