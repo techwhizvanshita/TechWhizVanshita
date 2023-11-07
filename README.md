@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ![Dino](https://raw.githubusercontent.com/setiyawan12/setiyawan12/master/dino.gif)
 
- ![Vanshita GitHub Statistics](https://github-readme-stats.vercel.app/api?username=vanshita-80048&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWhizVanshita) 
+ ![Vanshita GitHub Statistics](https://github-readme-stats.vercel.app/api?username=TechWhizVanshita&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWhizVanshita) 
 | --- | --- |
  ![Vanshita GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TechWhizVanshita) 
 
