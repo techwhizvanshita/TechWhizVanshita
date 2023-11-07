@@ -45,17 +45,17 @@ Here are some ideas to get you started:
 
 ![Dino](https://raw.githubusercontent.com/setiyawan12/setiyawan12/master/dino.gif)
 
- ![Vanshita GitHub Statistics](https://github-readme-stats.vercel.app/api?username=vanshita-80048&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshita-80048) 
+ ![Vanshita GitHub Statistics](https://github-readme-stats.vercel.app/api?username=vanshita-80048&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWhizVanshita) 
 | --- | --- |
- ![Vanshita GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanshita-80048) 
+ ![Vanshita GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TechWhizVanshita) 
 
 <br><br>
-<p align="left ">  <img width="660" src="https://github-profile-trophy.vercel.app/?username=vanshita-80048&theme=onedark&row=2&column=8"> </p> </a>
+<p align="left ">  <img width="660" src="https://github-profile-trophy.vercel.app/?username=TechWhizVanshita&theme=onedark&row=2&column=8"> </p> </a>
 
 
-[![An image of @vanshita80048's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshita80048)](https://holopin.io/@vanshita80048)
+[![An image of @vanshita80048's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshita80048)](https://holopin.io/@TechWhizVanshita)
 
  
 
 
- ![Vanshita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanshita-80048)
+ ![Vanshita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TechWhizVanshita)
