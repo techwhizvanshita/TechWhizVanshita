@@ -39,6 +39,7 @@ src="https://img.shields.io/twitter/follow/TecWhizVanshita?logo=twitter&style=fo
  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="36" height="36" alt="Ansible" /></a>
  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="36" height="36" alt="AWS" /></a>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="42" height="36" alt="Docker" /></a>
+   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42" height="36" alt="Docker" /></a>
 </p>
 
 
